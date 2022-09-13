@@ -1,6 +1,6 @@
 # UAF-Fuzzer-TestSuite
 
-Use-after-free testsuite used for fuzzing experiment
+testsuite used for fuzzing experiment
 
 Seed and POC in the Fuzzing folder
 
